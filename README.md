@@ -4,4 +4,4 @@ A simple snake game implemented in javascript and html5 canvas. The project wher
 
 ## How to pull down 
 
-<$ git clone https://github.com/patriques82/snake-.git your_dir>
+<pre><code>$ git clone https://github.com/patriques82/snake-.git your_dir</code></pre>
